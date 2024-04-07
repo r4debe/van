@@ -63,4 +63,3 @@ else
     echo "$(cur_date) FINISHED $run_id" >> $logfile
     echo "" >> $logfile
 fi
-
